@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">短信搬运工</string>
+    <string name="setting">设置</string>
+    <string name="mineMobile">本机号码:</string>
+    <string name="apiHost">服务Host:</string>
+    <string name="loginToken">认证 Token:</string>
+    <string name="serverChanSckey">SCKEY:</string>
+    <string name="btnTest">测试</string>
+    <string name="testTitle">测试</string>
+    <string name="testContent">这是一条测试消息。</string>
+    <string name="testMessage">测试信息已发送!</string>
+    <string name="maxRetry">重试次数:</string>
+    <string name="retryInterval">重试间隔:</string>
+    <string name="maxCount">短信数量:</string>
+    <string name="btnSave">保存</string>
+    <string name="batteryNotifyFlag">电量通知？:</string>
+    <string name="batteryStatus">电源状态</string>
+    <string name="batteryLow">电量低，请及时充电</string>
+    <string name="batteryOkay">电池已充满，请断开充电器</string>
+    <string name="powerConnected">已接通电源，充电中</string>
+    <string name="powerDisConnected">电源已断开</string>
+    <string name="requiredPermission">需要授权!</string>
+    <string name="savedMessage">设置选项已保存!</string>
+    <string name="senderSystem">系统</string>
+    <string name="batteryCapacityMessage">电池电量%s，请及时充电。</string>
+    <string name="sender">发送人:</string>
+    <string name="sendTime">发送时间:</string>
+</resources>

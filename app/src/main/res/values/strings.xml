@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmsMover</string>
+    <string name="setting">Setting</string>
+    <string name="mineMobile">Mobile:</string>
+    <string name="apiHost">Server Host:</string>
+    <string name="loginToken">Login Token:</string>
+    <string name="serverChanSckey">SCKEY:</string>
+    <string name="btnTest">Test</string>
+    <string name="testTitle">Test</string>
+    <string name="testContent">This is a test message.</string>
+    <string name="testMessage">Test was sent!</string>
+    <string name="maxRetry">Max Retry:</string>
+    <string name="retryInterval">Retry Interval:</string>
+    <string name="maxCount">Max Count:</string>
+    <string name="btnSave">Save</string>
+    <string name="batteryNotifyFlag">Battery Notify?:</string>
+    <string name="batteryStatus">BATTERY_STATUS</string>
+    <string name="batteryLow">ACTION_BATTERY_LOW</string>
+    <string name="batteryOkay">ACTION_BATTERY_OKAY</string>
+    <string name="powerConnected">ACTION_POWER_CONNECTED</string>
+    <string name="powerDisConnected">ACTION_POWER_DISCONNECTED</string>
+    <string name="requiredPermission">Required Permission!</string>
+    <string name="savedMessage">Setting was saved!</string>
+    <string name="senderSystem">System</string>
+    <string name="batteryCapacityMessage">Battery Capacity is %s. Please charge in time.</string>
+    <string name="sender">Sender:</string>
+    <string name="sendTime">SendTime:</string>
+</resources>
